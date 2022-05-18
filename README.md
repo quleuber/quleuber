@@ -1,5 +1,5 @@
 ### Hi there
-I'm queluber. Or just Kelvin, if you want to call me something typeable.
+I'm quleuber. Or just Kelvin, if you want to call me something typeable.
 
 Interested in:
 
