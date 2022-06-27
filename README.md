@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm `quleuber`. Or just Kelvin, if you want to call me something typeable.
+I'm Kelvin.
 
 Currently working on: [github.com/Kindelia](https://github.com/Kindelia)
 
@@ -23,9 +23,9 @@ Interested but ultra noob:
 - Cognition, Mind and the nature of Consciousness
 - anything evolutionary
 
-[(Definitely non-exhaustive) list of my favorite projects](https://github.com/stars/quleuber/lists/fav).
+[(Definitely non-exhaustive) list of my favorite projects](https://github.com/stars/steinerkelvin/lists/fav).
 
-[My dotfiles](https://github.com/quleuber/dotfiles). And [some of my usual stack/tools](https://github.com/stars/quleuber/lists/my-stack).
+[My dotfiles](https://github.com/steinerkelvin/dotfiles). And [some of my usual stack/tools](https://github.com/stars/steinerkelvin/lists/my-stack).
 
 [My (yet) totally empty blog](https://blog.quleuber.dev/), lol.
 
@@ -44,4 +44,4 @@ I advocate for:
 - deprecating [months](https://www.youtube.com/watch?v=QezTrYHsr_s) (years, weeks and day of year instead) ([example date format on *nix][nomonth-format])
 
 
-[nomonth-format]: https://github.com/quleuber/dotfiles/blob/fe13e6fd8803e505b944daaafa06c4f99d0bd728/home/.i3status.conf#L52
+[nomonth-format]: https://github.com/steinerkelvin/dotfiles/blob/fe13e6fd8803e505b944daaafa06c4f99d0bd728/home/.i3status.conf#L52
