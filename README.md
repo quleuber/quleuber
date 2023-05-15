@@ -2,7 +2,8 @@
 
 I'm Kelvin.
 
-Currently working on: [github.com/Kindelia](https://github.com/Kindelia)
+programming / software development lessons: http://cal.com/steinerkelvin
+<!-- TODO: explain this -->
 
 I'm interested in and involved with:
 
