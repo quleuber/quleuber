@@ -28,7 +28,7 @@ Interested but ultra noob:
 
 [My dotfiles](https://github.com/steinerkelvin/dotfiles). And [some of my usual stack/tools](https://github.com/stars/steinerkelvin/lists/my-stack).
 
-[My (yet) totally empty blog](https://blog.quleuber.dev/), lol.
+[My not totally empty blog](https://blog.quleuber.dev/), lol.
 
 I advocate for:
 
