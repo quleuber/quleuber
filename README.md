@@ -2,9 +2,6 @@
 
 I'm Kelvin.
 
-programming / software development lessons: http://cal.com/steinerkelvin
-<!-- TODO: explain this -->
-
 I'm interested in and involved with:
 
 - Free and Open Source software
